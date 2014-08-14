@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [LED Board.PcbDoc]
+   Generated File[LED Board.GTL]
+   Generated File[LED Board.GBL]
+   Generated File[LED Board.GTO]
+   Generated File[LED Board.GTP]
+   Generated File[LED Board.GTS]
+   Generated File[LED Board.GBS]
+   Generated File[LED Board.GBP]
+   Generated File[LED Board.GBO]
+   Generated File[LED Board.GKO]
+   Generated File[LED Board.RUL]
+   Generated File[LED Board.EXTREP]
+   Generated File[LED Board.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 2:14:08 PM On 12/8/2013

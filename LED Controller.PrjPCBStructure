@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Controller1|SchDesignator=Repeat(Controller,1,3)|FileName=Controller.SchDoc|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Controller2|SchDesignator=Repeat(Controller,1,3)|FileName=Controller.SchDoc|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Controller3|SchDesignator=Repeat(Controller,1,3)|FileName=Controller.SchDoc|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Top Level.SchDoc
